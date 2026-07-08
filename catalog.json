@@ -1,0 +1,11 @@
+[
+  {
+    "id":"customize-arklum",
+    "name":"Customize Arklum",
+    "version":"1.0.0"
+    "author":"Arklum & Y&B"
+    "description":"Theme your world"
+    "icon":"/plugins/customize-arklum/icon.png",
+    "download_url":"https://github.com/NEW4ONEDK/arklum-plugins.git"
+  }
+]
