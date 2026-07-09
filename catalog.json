@@ -1,11 +1,11 @@
 [
   {
-    "id":"customize-arklum",
-    "name":"Customize Arklum",
-    "version":"1.0.0"
-    "author":"Arklum & Y&B"
-    "description":"Theme your world"
-    "icon":"/plugins/customize-arklum/icon.png",
-    "download_url":"https://github.com/NEW4ONEDK/arklum-plugins/blob/main/customize-arklum.zip"
+    "id": "customize-arklum",
+    "name": "Customize Arklum",
+    "version": "1.0.0",
+    "author": "Arklum & Y&B",
+    "description": "Theme your world",
+    "icon": "/plugins/customize-arklum/icon.png",
+    "download_url": "https://github.com/NEW4ONEDK/arklum-plugins/releases/download/v1.0.0/customize-arklum.zip"
   }
 ]
