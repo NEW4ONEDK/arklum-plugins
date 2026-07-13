@@ -9,12 +9,12 @@
     "download_url": "https://github.com/NEW4ONEDK/arklum-plugins/releases/download/arklum_plugin/customize-arklum.zip"
   },
   {
-   "id": "api-docs",
-   "name": "Plugin API Reference",
-   "version": "0E3",
-   "author": "ARKLUM",
-   "description": "API AND GUIDE FOR PLUGINS",
-   "icon": "📖",
-   "download_url": "https://github.com/NEW4ONEDK/arklum-plugins/releases/download/untagged-3263866d8b6344fb3d98/api-docs.zip"
+    "id": "api-docs",
+    "name": "Plugin API Reference",
+    "version": "0E3",
+    "author": "ARKLUM",
+    "description": "API AND GUIDE FOR PLUGINS",
+    "icon": "📖",
+    "download_url": "https://github.com/NEW4ONEDK/arklum-plugins/releases/download/untagged-3263866d8b6344fb3d98/api-docs.zip"
   }
 ]
