@@ -1,12 +1,12 @@
 [
   {
-    "id": "customize-arklum",
-    "name": "Customize Arklum",
-    "version": "1.0.0",
-    "author": "Arklum & Y&B",
-    "description": "Theme your world",
-    "icon": "https://github.com/NEW4ONEDK/arklum-plugins/releases/download/arklum_plugin/icon.png",
-    "download_url": "https://github.com/NEW4ONEDK/arklum-plugins/releases/download/arklum_plugin/customize-arklum.zip"
+    "id": "sorix",
+    "name": "SORIX",
+    "version": "4.6.0",
+    "author": "1KD",
+    "description": "A multi tool with purge, nuke, webhook & DM spam, per token settings",
+    "icon": "/plugins/sorix/sorix.png",
+    "download_url": "https://github.com/NEW4ONEDK/arklum-plugins/releases/download/sorix_v4.6.0/sorix.zip"
   },
   {
     "id": "api-docs",
