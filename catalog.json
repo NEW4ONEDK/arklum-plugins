@@ -5,8 +5,8 @@
     "version": "4.6.0",
     "author": "1KD",
     "description": "A multi tool with purge, nuke, webhook & DM spam, per token settings",
-    "icon": "/plugins/sorix/sorix.png",
-    "download_url": "https://github.com/NEW4ONEDK/arklum-plugins/releases/download/sorix_v4.6.0/sorix.zip"
+    "icon": "https://github.com/NEW4ONEDK/arklum-plugins/releases/download/sorix/sorix.png",
+    "download_url": "https://github.com/NEW4ONEDK/arklum-plugins/releases/download/sorix/sorix.zip"
   },
   {
     "id": "api-docs",
